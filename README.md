@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Thaer 👋
 
-<!--
-**thaer-alabbasi/thaer-alabbasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Medical student interested in the overlap between **neuroscience, AI, and robotics**, with a long-term focus on brain-computer interfaces and neural decoding.
 
-Here are some ideas to get you started:
+## What I'm doing now
+- 🧠 Studying medicine, currently nervous system anatomy and physiology
+- 🐍 Learning Python through Harvard’s CS50P
+- 📊 Building my foundation in statistics and linear algebra
+- 🗾 Learning Japanese
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Where this is heading
+Research at the intersection of AI and the brain. I'm building skills step by step and will share my projects here as I go.
+
+## Links
+- ORCID: [0009-0008-3681-7430](https://orcid.org/0009-0008-3681-7430)
